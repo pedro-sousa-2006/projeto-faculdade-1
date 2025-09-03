@@ -19,7 +19,7 @@ export class HomePage implements OnInit {
   ngOnInit() {
   }
   pessoa : Aluno = new Aluno();
-
+    imagem = "assets/pedro.jpeg";
 }
   class Aluno{
     nome : string = "Pedro Henrique";
