@@ -23,6 +23,6 @@ export class HomePage implements OnInit {
 }
   class Aluno{
     nome : string = "Pedro Henrique";
-    matricula : string = "24105576";
+    matricula : string = "23560978";
   }
   
